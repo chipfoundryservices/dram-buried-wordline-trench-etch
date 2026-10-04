@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 380" font-family="sans-serif" font-size="12">
+<rect width="620" height="380" fill="white"/>
+<text x="310.0" y="18" text-anchor="middle" font-weight="bold">Neutral delivery to the trench floor</text>
+<line x1="70" x2="600" y1="325.0" y2="325.0" stroke="#ddd"/><text x="64" y="329.0" text-anchor="end">1e-2</text>
+<line x1="70" x2="600" y1="177.5" y2="177.5" stroke="#ddd"/><text x="64" y="181.5" text-anchor="end">1e-1</text>
+<line x1="70" x2="600" y1="30.0" y2="30.0" stroke="#ddd"/><text x="64" y="34.0" text-anchor="end">1e0</text>
+<line x1="70.0" x2="70.0" y1="30" y2="325" stroke="#eee"/><text x="70.0" y="341" text-anchor="middle">0.5</text>
+<line x1="88.3" x2="88.3" y1="30" y2="325" stroke="#eee"/><text x="88.3" y="341" text-anchor="middle">1</text>
+<line x1="124.8" x2="124.8" y1="30" y2="325" stroke="#eee"/><text x="124.8" y="341" text-anchor="middle">2</text>
+<line x1="161.4" x2="161.4" y1="30" y2="325" stroke="#eee"/><text x="161.4" y="341" text-anchor="middle">3</text>
+<line x1="197.9" x2="197.9" y1="30" y2="325" stroke="#eee"/><text x="197.9" y="341" text-anchor="middle">4</text>
+<line x1="234.5" x2="234.5" y1="30" y2="325" stroke="#eee"/><text x="234.5" y="341" text-anchor="middle">5</text>
+<line x1="271.0" x2="271.0" y1="30" y2="325" stroke="#eee"/><text x="271.0" y="341" text-anchor="middle">6</text>
+<line x1="344.1" x2="344.1" y1="30" y2="325" stroke="#eee"/><text x="344.1" y="341" text-anchor="middle">8</text>
+<line x1="417.2" x2="417.2" y1="30" y2="325" stroke="#eee"/><text x="417.2" y="341" text-anchor="middle">10</text>
+<line x1="490.3" x2="490.3" y1="30" y2="325" stroke="#eee"/><text x="490.3" y="341" text-anchor="middle">12</text>
+<line x1="600.0" x2="600.0" y1="30" y2="325" stroke="#eee"/><text x="600.0" y="341" text-anchor="middle">15</text>
+<rect x="70" y="30" width="530" height="295" fill="none" stroke="#444"/>
+<text x="335.0" y="368" text-anchor="middle">aspect ratio</text>
+<text transform="translate(16 177.5) rotate(-90)" text-anchor="middle">floor fraction</text>
+<polyline points="70.0,43.9 88.3,54.2 124.8,69.2 161.4,80.2 197.9,88.7 234.5,96.0 271.0,102.1 344.1,113.1 417.2,121.4 490.3,128.3 600.0,137.8" fill="none" stroke="#1f77b4" stroke-width="2"/>
+<rect x="430" y="38" width="12" height="3" fill="#1f77b4"/><text x="448" y="44">neutral s=0</text>
+<polyline points="70.0,44.1 88.3,54.9 124.8,70.3 161.4,81.8 197.9,91.8 234.5,99.5 271.0,107.2 344.1,120.2 417.2,130.9 490.3,141.2 600.0,154.7" fill="none" stroke="#d62728" stroke-width="2"/>
+<rect x="430" y="54" width="12" height="3" fill="#d62728"/><text x="448" y="60">neutral s=0.01</text>
+<polyline points="70.0,44.9 88.3,56.5 124.8,74.3 161.4,88.6 197.9,101.1 234.5,112.4 271.0,122.5 344.1,141.3 417.2,158.5 490.3,173.2 600.0,194.0" fill="none" stroke="#2ca02c" stroke-width="2"/>
+<rect x="430" y="70" width="12" height="3" fill="#2ca02c"/><text x="448" y="76">neutral s=0.05</text>
+<polyline points="70.0,47.7 88.3,62.5 124.8,87.1 161.4,107.4 197.9,125.2 234.5,141.1 271.0,154.9 344.1,178.8 417.2,197.6 490.3,213.9 600.0,232.1" fill="none" stroke="#9467bd" stroke-width="2"/>
+<rect x="430" y="86" width="12" height="3" fill="#9467bd"/><text x="448" y="92">neutral s=0.2</text>
+<polyline points="70.0,60.9 88.3,86.5 124.8,122.4 161.4,146.2 197.9,164.4 234.5,178.4 271.0,189.7 344.1,207.0 417.2,222.2 490.3,234.4 600.0,249.2" fill="none" stroke="#ff7f0e" stroke-width="2"/>
+<rect x="430" y="102" width="12" height="3" fill="#ff7f0e"/><text x="448" y="108">neutral s=1</text>
+</svg>

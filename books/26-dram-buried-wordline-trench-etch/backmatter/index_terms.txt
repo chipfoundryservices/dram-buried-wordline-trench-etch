@@ -1,0 +1,45 @@
+Aspect ratio|aspect ratio
+ARDE|ARDE
+Amorphous carbon|amorphous carbon|a-C
+Atomic-layer etching|atomic-layer etch
+Bias|bias
+Bit line|bit line|bit-line
+Bowing|bowing
+Buried word line|buried word line|BCAT
+Charging|charging
+Chamber drift|seasoning|chamber condition|drift
+CD-SAXS|CD-SAXS
+Crossed strings|crossed-strings|crossed strings
+Divot|divot
+Fin height|fin height
+Fluorocarbon|fluorocarbon
+Free-molecular flow|free-molecular|Knudsen
+Gate oxide|gate oxide|gate oxidation|gate dielectric
+GIDL|GIDL
+Hard mask|hard mask
+HBr|HBr
+Ion angular distribution|angular distribution|angular spread
+Ion-limited|ion-limited
+Line-edge roughness|roughness
+Metal recess|recess etch|metal recess
+Monte Carlo|Monte Carlo
+Neutral-limited|neutral-limited
+Nitride liner|nitride liner|liner
+OCD|OCD|scatterometry
+Passing word line|passing word line|passing-gate
+Passivation|passivation
+Pitch walking|pitch walking
+Pulsing|pulsed|pulsing
+RCAT|RCAT
+Retention time|retention
+Row hammer|row hammer|row-hammer
+Saddle fin|saddle fin|saddle-fin
+Selectivity|selectivity
+Sheath|sheath
+Sticking coefficient|sticking
+STI|STI|shallow-trench isolation
+Synergy|synergy
+Taper|taper
+TEM|TEM|transmission electron
+Tungsten|tungsten
+Wafer temperature|wafer temperature
